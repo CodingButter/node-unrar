@@ -1,0 +1,28 @@
+{
+  "commands": {
+    "extract": "e",
+    "list": "l",
+    "stdout": "p",
+    "test": "t",
+    "verbosely": "v",
+    "extractTo": "x"
+  },
+  "switchers": {
+    "checkAV": "av-",
+    "showComments": "c-",
+    "refreshFiles": "f",
+    "keepBroken": "kb",
+    "stdoutMessages": "ierr",
+    "disableMessages": "inul",
+    "overwrite": ["o+", "o-"],
+    "password": "p",
+    "queryPassword": "p-",
+    "recursive": "r",
+    "updateFiles": "u",
+    "listVolumes": "v",
+    "exclude": "x",
+    "excludeFiles": "x@",
+    "excludeFromSTIN": "x@",
+    "assumeYes": "y"
+  }
+}
