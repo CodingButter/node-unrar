@@ -2,7 +2,6 @@ const os = require("os")
 const { exec } = require("child_process")
 const { commands } = require("./CommandSwitches.json")
 const stringifySwitches = require("./Switchers.js")
-const parseOutput = require("./OutputParser")
 
 const osCommand = {
   Windows_NT: __dirname + "/unrar.exe",
