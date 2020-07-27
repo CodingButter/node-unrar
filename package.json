@@ -1,19 +1,19 @@
 {
-    "name": "node-unrar",
-    "version": "1.0.1",
-    "description": "",
-    "main": "index.js",
-    "files": [
-        "UnRAR.exe",
-        "OutputParser.js",
-        "Switchers.js",
-        "unrar.js",
-        "Utilities.js",
-        "CommandSwitchers.json"
-    ],
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC"
+  "name": "node-unrar",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "UnRAR.exe",
+    "OutputParser.js",
+    "Switchers.js",
+    "unrar.js",
+    "Utilities.js",
+    "CommandSwitchers.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
